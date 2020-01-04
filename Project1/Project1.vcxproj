@@ -139,9 +139,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="coucou.cpp" />
+    <ClCompile Include="coucouOther.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="coucou.h" />
+    <ClInclude Include="coucouOther.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
